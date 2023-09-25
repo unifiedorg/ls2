@@ -9,6 +9,8 @@ An advanced version of the linux command `ls` that displays more information in 
 | -a         | Displays hidden files.                    |
 | -n         | Displays permissions in a numerical form. |
 
+![ls2 showcase](./img/showcase.png)
+
 # How to install
 ## Debian
 You can find the latest [debian binary over here](https://github.com/unifiedorg/ls2/releases/latest), and install it by running
