@@ -11,7 +11,7 @@ An advanced version of the linux command `ls` that displays more information in 
 
 # How to install
 ## Debian
-You can find a debian binary in the downloads, and install it by running
+You can find the latest [debian binary over here](https://github.com/unifiedorg/ls2/releases/latest), and install it by running
 ```
 sudo dpkg -i ls2-1.0-amd64.deb
 ```
